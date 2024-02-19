@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppPlayMusic</string>
+    <string name="nav_favoritos">Favoritos</string>
+    <string name="nav_user">User</string>
 </resources>
